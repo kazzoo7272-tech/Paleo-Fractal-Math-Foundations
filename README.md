@@ -9,12 +9,7 @@ quantum Darwinism, cultural pointer states, fractal dimension, Palaeolithic symb
 
 Links to (EUH) Efficient Universe Hypothesis. 
 (This is a over-tuned hypothetical framework flurting with extending EUH from a 5D model to 6D model.
-EUH-Core: ( https://doi.org/10.5281/zenodo.17701047 ).
-EUH-CHF: ( https://doi.org/10.5281/zenodo.17703679 ).
-EUH-TTF: ( https://doi.org/10.5281/zenodo.17714503 ).
-EUH-GFE: ( https://doi.org/10.5281/zenodo.17714678 ).
-EUH-QSC: ( https://doi.org/10.5281/zenodo.17714975 ).
-EUH-Qubits-WormHoles: ( https://doi.org/10.5281/zenodo.17714950 ).
+EUH-Core: https://doi.org/10.5281/zenodo.17701047 . EUH-CHF: https://doi.org/10.5281/zenodo.17703679 . EUH-TTF: https://doi.org/10.5281/zenodo.17714503 . EUH-GFE: https://doi.org/10.5281/zenodo.17714678 . EUH-QSC: https://doi.org/10.5281/zenodo.17714975 . EUH-Qubits-WormHoles: https://doi.org/10.5281/zenodo.17714950
 
 EUH is a work in progress. Feedback is highly welcome. Please feel free to coment. 
 Open for collaboration. You can contact me kazzoo72@proton.me for those that don't like communicating through Gmail.
